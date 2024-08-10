@@ -1,2 +1,1 @@
-# project-game-x
-khong co gi ca
+Đây là project game X
